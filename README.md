@@ -7,7 +7,9 @@ I'm currently learning Javascript and some frameworks like Django and ReactJs.
 I'm actively looking forward to further increase my experience by taking on internships in Frontend Development.
 
 Languages            : Python, Javascript, HTML, CSS, C++, MySQL
+
 Relevant Courseworks : Data Structures, OOPs, Operating Systems, Computer Networks and Database Management Systems.
+
 Tools                : Bootstrap, Tkinter, VS Code, Linux OS, Git
 
 <!--
