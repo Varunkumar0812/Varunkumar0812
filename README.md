@@ -1,19 +1,14 @@
-Hello there 
-
-<html>
-  <div style= "background-color : red;">
-    Hello There
-  </div>
-  </html>
+Hello there !!🙂👋👋
   
-Myself Varunkumar R, and I'm a passionate Computer Science Student.
+Myself Varunkumar R, and I'm a passionate Computer Science Student studying in College of Engineering, Guindy.
 
 I'm currently learning Javascript and some frameworks like Django and ReactJs.
 
 I'm actively looking forward to further increase my experience by taking on internships in Frontend Development.
 
-Languages            : Python, Javascript, HTML, CSS, C++
+Languages            : Python, Javascript, HTML, CSS, C++, MySQL
 Relevant Courseworks : Data Structures, OOPs, Operating Systems, Computer Networks and Database Management Systems.
+Tools                : Bootstrap, Tkinter, VS Code, Linux OS, Git
 
 <!--
 
