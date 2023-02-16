@@ -1,5 +1,11 @@
 Hello there 
 
+<html>
+  <div style= "background-color : red;">
+    Hello There
+  </div>
+  </html>
+  
 Myself Varunkumar R, and I'm a passionate Computer Science Student.
 
 I'm currently learning Javascript and some frameworks like Django and ReactJs.
