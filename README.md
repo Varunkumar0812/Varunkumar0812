@@ -1,16 +1,16 @@
-Hello there !!🙂👋👋
+Hello there! 🙂👋👋
   
-Myself Varunkumar R, and I'm a passionate Computer Science Student studying in College of Engineering, Guindy.
+My name is Varunkumar R, and I'm a passionate Computer Science Student studying in the College of Engineering, Guindy.
 
 I'm currently learning Javascript and some frameworks like Django and ReactJs.
 
-I'm actively looking forward to further increase my experience by taking on internships in Frontend Development.
+I'm actively looking forward for further increasing my experience by taking on internships in Frontend Development.
 
-Languages            : Python, Javascript, HTML, CSS, C++, MySQL
+Languages            : Python, Java, Javascript, HTML, CSS, C++, MySQL
 
 Relevant Courseworks : Data Structures, OOPs, Operating Systems, Computer Networks and Database Management Systems.
 
-Tools                : Bootstrap, Tkinter, VS Code, Linux OS, Git
+Tools                : Bootstrap, Tailwind CSS, Tkinter, VS Code, Linux OS, Git
 
 <!--
 
