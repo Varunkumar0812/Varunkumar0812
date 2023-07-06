@@ -27,3 +27,6 @@
 <div align="center">
   I'm a passionate frontend web developer enthusiastic to create some creative and amazing websites. I recently took on backend development too using technologies like Django, Java- JSPs and Servlets. I always try to induce my creativity to develop some new and creative websites. I am well versed in Python and Java.
 </div>
+
+<h1>Skills : </h1>
+<div>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</div>
