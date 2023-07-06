@@ -29,5 +29,6 @@
 </div>
 
 <h1>Skills : </h1>
-<h3>Languages : </h3><img src="https://skills.thijs.gg/icons?i=c,cpp,java,py">
+<h3>Languages : </h3><img src="https://skills.thijs.gg/icons?i=c,cpp,java,py,mysql">
 <h3>Web : </h3><img src="https://skills.thijs.gg/icons?i=html,css,sass,js,jquery,bootstrap,tailwind,django,php">
+<h3>Tools : </h3><img src="https://skills.thijs.gg/icons?i=bash,eclipse,figma,git,github,linux,r,stackoverflow,vim,vscode,wix"> 
