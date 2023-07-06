@@ -6,5 +6,5 @@
 <hr>
 
 <div align="center">
-  <button>Linked In</button>
+  <a>Linked In</>
 </div>
