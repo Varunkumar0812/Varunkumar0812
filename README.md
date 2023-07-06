@@ -1,4 +1,4 @@
-<div style="display : flex; justify-content : center;">
+<div style="display : flex; justify-content : center; text-align : center;">
   <div style="font-size : 26px;">Hello there, :smiley::wave::wave:</div>
   <div style="font-size : 55px;">Varunkumar R here,</div>
 
