@@ -29,4 +29,4 @@
 </div>
 
 <h1>Skills : </h1>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+<img src="https://skills.thijs.gg/icons?i=js,html,css,wasm">
