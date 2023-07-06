@@ -32,3 +32,7 @@
 <h3>Languages : </h3><img src="https://skills.thijs.gg/icons?i=c,cpp,java,py,mysql">
 <h3>Web : </h3><img src="https://skills.thijs.gg/icons?i=html,css,sass,js,jquery,bootstrap,tailwind,django,php">
 <h3>Tools : </h3><img src="https://skills.thijs.gg/icons?i=linux,vscode,eclipse,git,github,bash,figma,r,stackoverflow,vim"> 
+
+<h1>Reach me :</h1>
+<h3>Mobile No : +91 89393 00081</h3>
+<h3>Email ID  : varunkumarceg@gmail.com</h3>
