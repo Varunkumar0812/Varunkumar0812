@@ -1,6 +1,5 @@
-<div style="display : flex; justify-content : center; text-align : center;">
-  <div style="font-size : 26px;">Hello there, :smiley::wave::wave:</div>
-  <div style="font-size : 55px;">Varunkumar R here,</div>
-
+<div>
+  <h2>Hello there, 😃👋👋</h2>
+  <h1>Varunkumar R, here<h1>
   <img src="2022-12-20.png" width="400" height="400">
 </div>
