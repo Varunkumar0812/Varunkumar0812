@@ -24,9 +24,9 @@
 </div>
 <hr>
 
-<div align="center">
+<div>
   <h2>About myself : </h2>
-  I'm a passionate frontend web developer enthusiastic to create some creative and amazing websites. I recently took on backend development too using technologies like Django, Java- JSPs and Servlets. I always try to induce my creativity to develop some new and creative websites. I am well versed in Python and Java.
+  <div align="center">I'm a passionate frontend web developer enthusiastic to create some creative and amazing websites. I recently took on backend development too using technologies like Django, Java- JSPs and Servlets. I always try to induce my creativity to develop some new and creative websites. I am well versed in Python and Java.</div>
 </div>
 
 <h1>Skills : </h1>
