@@ -29,4 +29,4 @@
 </div>
 
 <h1>Skills : </h1>
-<img src="https://skills.thijs.gg/icons?i=c,cpp,java,py,php">
+<div>Languages : </div><img src="https://skills.thijs.gg/icons?i=c,cpp,java,py,php">
