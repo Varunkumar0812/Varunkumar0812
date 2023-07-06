@@ -9,7 +9,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-navy?logo=linkedin&logoColor=navy&labelColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="your-youtube-URL" margin="10">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=blue&labelColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
     <a href="your-twitter-URL">
