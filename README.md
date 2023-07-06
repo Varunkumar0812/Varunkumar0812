@@ -6,5 +6,5 @@
 <hr>
 
 <div align="center">
-  <a>Linked In</a>
+  <a onclick="location.href='https://www.linkedin.com/in/varunkumar-raman-6252b6240/'">Linked In</a>
 </div>
