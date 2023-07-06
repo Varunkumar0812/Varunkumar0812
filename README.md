@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/leetcode-darkorange?logo=leetcode&labelColor=white&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
 </div>
-<h1></h1>
+<hr>
 
 <div align="center">
   I'm a passionate frontend web developer enthusiastic to create some creative and amazing websites. I recently took on backend development too using technologies like Django, Java- JSPs and Servlets. I always try to induce my creativity to develop some new and creative websites. I am well versed in Python and Java.
