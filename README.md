@@ -5,7 +5,7 @@
 </div>
 <hr>
 
-<div id="badges" align="center">
+<div id="badges" align="space-between">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-navy?logo=linkedin&logoColor=navy&labelColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
