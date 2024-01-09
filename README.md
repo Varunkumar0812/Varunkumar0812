@@ -1,4 +1,4 @@
-<img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/b5a79c071d4d0a647acb9e2b117826601c45a626/top-frame.png"/>
+<img height="400" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/b5a79c071d4d0a647acb9e2b117826601c45a626/top-frame.png"/>
 
 <div align="center">
   <img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/240738edef7c1e39ce478c4b71cd5b5a4ba59a23/name.png" />
@@ -11,7 +11,7 @@
 <h1></h1>
 
 <div align="center">
-  I am a computer Science Student at Anna University, Chennai. I have been doing problem solving in platforms like LeetCode and HackerRank. I am proficient in the languages Python, JavaScript and Java. I have developed quite a few frontend projects and also some full stack projects. I am familiar with technologies like React, Node.js and MongoDB. I'm aspiring to explore the field of Machine Learning and Artificial Intelligence, I have also worked with some basic models in ML.
+  I am a computer Science Student at Anna University, Chennai. I have been doing problem solving in platforms like LeetCode and HackerRank. I am proficient in the languages like Python, JavaScript and Java. I have developed quite a few frontend projects and also some full stack projects. I am familiar with technologies like React, Node.js and MongoDB. I'm aspiring to explore the field of Machine Learning and Artificial Intelligence, I have also worked with some basic models in ML.
 </div>
 
 <hr>
