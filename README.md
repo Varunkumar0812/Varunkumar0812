@@ -8,7 +8,7 @@
   <h4>Programming | Web Development | Problem Solving | Planning and Organization | Ml & AI Enthusiast </h4>
 </div>
 
-<hr>
+<h1></h1>
 
 <div align="center">
   I am a computer Science Student at Anna University, Chennai. I have been doing problem solving in platforms like LeetCode and HackerRank. I am proficient in the languages Python, JavaScript and Java. I have developed quite a few frontend projects and also some full stack projects. I am familiar with technologies like React, Node.js and MongoDB. I'm aspiring to explore the field of Machine Learning and Artificial Intelligence, I have also worked with some basic models in ML.
@@ -17,5 +17,7 @@
 <hr>
 
 <div>
-  
+  <img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/linked-logo.png"/>
+  <img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/portfolio-logo.png"/>
+  <img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>
 </div>
