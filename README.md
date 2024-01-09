@@ -36,5 +36,37 @@
   [![My Languages](https://skillicons.dev/icons?i=python,js,java,html,css&theme=light)]()
     </td>
   </tr>
+
+ <tr>
+    <th>Databases</th>
+    <td>
+      
+  [![My Databases](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)]()
+    </td>
+  </tr>
+
+   <tr>
+    <th>Tools</th>
+    <td>
+      
+  [![My Databases](https://skillicons.dev/icons?i=vscode,eclipse,postman,figma,bootstrap,tailwind,materialui,anaconda&theme=light)]()
+    </td>
+  </tr>
+
+   <tr>
+    <th>Technologies</th>
+    <td>
+      
+  [![My Technologies](https://skillicons.dev/icons?i=react,nodejs,express,scikit,tensorflow,git&theme=light)]()
+    </td>
+  </tr>
+
+  <tr>
+    <th>Platforms</th>
+    <td>
+      
+  [![My Platforms](https://skillicons.dev/icons?i=linux,github&theme=light)]()
+    </td>
+  </tr>
 </table>
 
