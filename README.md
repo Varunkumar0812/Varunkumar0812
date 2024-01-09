@@ -28,6 +28,8 @@
 <hr>
 
 <h3>Tech Skills : </h3>
+|                 |            |
+|-----------------|------------|
 | varunkumarceg   | Varunkumar | 
 | mettasurrendhar | Metta      | 
 | vigneshsundhar  | Vignesh    | 
