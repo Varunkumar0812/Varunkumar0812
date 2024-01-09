@@ -15,7 +15,7 @@
   
 </div>
 <hr>
-
+![Varunkumar0812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <div>
   <h2>About myself : </h2>
   <div align="center">I'm a passionate frontend web developer enthusiastic to create some creative and amazing websites. I recently took on backend development too using technologies like Django, Java- JSPs and Servlets. I always try to induce my creativity to develop some new and creative websites. I am well versed in Python and Java.</div>
