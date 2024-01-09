@@ -9,9 +9,8 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-Varunkumar_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunkumar-r-6252b6240/)]([https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/varunkumar-r-6252b6240/))
   [![Gmail Badge](https://img.shields.io/badge/-varunkumarceg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunkumarceg@gmail.com)](mailto:varunkumarceg@gmail.com)
-  [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=leetcode&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+  [![Youtube Badge](https://img.shields.io/badge/-varunkumarceg-darkorange?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/varunkumarceg/)](https://leetcode.com/varunkumarceg/)
   [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-  [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
   
 </div>
 <hr>
