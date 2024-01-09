@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hello there, 😃👋👋</h3>
+  <h3>Hello there, 😃<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h3>
   <h1>Varunkumar R, here<h1>
   <img src="Picture 6.png" width="300" height="300">
 </div>
@@ -7,7 +7,7 @@
 
 <div id="badges" align="center">  
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Varunkumar_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunkumar-r-6252b6240/)](https://www.linkedin.com/in/varunkumar-r-6252b6240/))
+  [![Linkedin Badge](https://img.shields.io/badge/-Varunkumar_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunkumar-r-6252b6240/)](https://www.linkedin.com/in/varunkumar-r-6252b6240/)
   [![Gmail Badge](https://img.shields.io/badge/-varunkumarceg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunkumarceg@gmail.com)](mailto:varunkumarceg@gmail.com)
   [![Leetcode Badge](https://img.shields.io/badge/-varunkumarceg-darkorange?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/varunkumarceg/)](https://leetcode.com/varunkumarceg/)
   [![HackerRank Badge](https://img.shields.io/badge/-varunkumarceg-black?style=flat-square&labelColor=0f141f&logo=hackerrank&logoColor=2ec967&link=https://www.hackerrank.com/profile/varunkumarceg)](https://www.hackerrank.com/profile/varunkumarceg)
