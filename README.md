@@ -34,8 +34,10 @@
 | mettasurrendhar | Metta      | 
 | vigneshsundhar  | Vignesh    | 
 
-<tr>
-  <td>Hello</td>
-  <td>Varun</td>
-</tr>
+<table>
+  <tr>
+    <td>Hello</td>
+    <td>Varun</td>
+  </tr>
+</table>
 
