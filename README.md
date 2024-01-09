@@ -9,8 +9,9 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-Varunkumar_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunkumar-r-6252b6240/)]([https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/varunkumar-r-6252b6240/))
   [![Gmail Badge](https://img.shields.io/badge/-varunkumarceg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunkumarceg@gmail.com)](mailto:varunkumarceg@gmail.com)
-  [![Youtube Badge](https://img.shields.io/badge/-varunkumarceg-darkorange?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/varunkumarceg/)](https://leetcode.com/varunkumarceg/)
-  [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+  [![Leetcode Badge](https://img.shields.io/badge/-varunkumarceg-darkorange?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/varunkumarceg/)](https://leetcode.com/varunkumarceg/)
+  [![HackerRank Badge](https://img.shields.io/badge/-varunkumarceg?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/profile/varunkumarceg)](https://www.hackerrank.com/profile/varunkumarceg)
+  [![Twitter Badge](https://img.shields.io/badge/-@Varunkumar_0812-1d9af1?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/Varunkumar_0812)](https://twitter.com/Varunkumar_0812)
   
 </div>
 <hr>
