@@ -1,7 +1,7 @@
 <img height="200" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/b5a79c071d4d0a647acb9e2b117826601c45a626/top-frame.png"/>
 
 <div align="center">
-  <img width="500" height="200" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/240738edef7c1e39ce478c4b71cd5b5a4ba59a23/name.png" />
+  <img width="600" height="200" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/240738edef7c1e39ce478c4b71cd5b5a4ba59a23/name.png" />
 </div>
 
 <div align="center">
