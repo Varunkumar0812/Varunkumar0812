@@ -17,7 +17,7 @@
 <hr>
 
 ![Varunkumar0812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![Varunkumar0812's Stats](https://github-readme-stats.vercel.app/api?username=Varunkumar0812&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Varunkumar0812's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=dark&hide_border=true)
 
 <div>
   <h2>About myself : </h2>
