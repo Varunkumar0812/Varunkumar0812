@@ -57,7 +57,7 @@
     <th>Technologies</th>
     <td>
       
-  [![My Technologies](https://skillicons.dev/icons?i=react,nodejs,express,scikit,tensorflow,git&theme=light)]()
+  [![My Technologies](https://skillicons.dev/icons?i=react,nodejs,express,scikit-learn,tensorflow,git&theme=light)]()
     </td>
   </tr>
 
