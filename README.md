@@ -32,9 +32,9 @@
 <h1>Skills : </h1>
 <h3>Languages : </h3><img src="https://skills.thijs.gg/icons?i=py,js,java,html,css&theme=light">
 <h3>Databases : </h3><img src="https://skills.thijs.gg/icons?i=mysql,mongodb&theme=light">
-<h3>Tools : </h3><img src="https://skills.thijs.gg/icons?i=vscode,eclipse,postman,figma,canva,bootstrap,tailwind,materialui,anaconda&theme=light">
+<h3>Tools : </h3><img src="https://skills.thijs.gg/icons?i=vscode,eclipse,postman,figma,bootstrap,tailwind,materialui,anaconda&theme=light">
 <h3>Technology : </h3><img src="https://skills.thijs.gg/icons?i=react,nodejs,express,sklearn,tensorflow,git&theme=light">
-<h3>Platform : </h3><img src="https://skills.thijs.gg/icons?i=linux,windows,github&theme=light"> 
+<h3>Platform : </h3><img src="https://skills.thijs.gg/icons?i=linux,github&theme=light"> 
 
 <hr>
 
