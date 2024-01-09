@@ -17,7 +17,7 @@
 <hr>
 
 <div>
-  <img height="50" width="100" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/linked-logo.png"/>
-  <img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/portfolio-logo.png"/>
-  <img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>
+  <img height="50" width="150" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/linked-logo.png"/>
+  <img height="50" width="150" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/portfolio-logo.png"/>
+  <img height="50" width="150" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>
 </div>
