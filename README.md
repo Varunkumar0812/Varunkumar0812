@@ -19,7 +19,8 @@
 <div align="center">
  
   [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/linked-logo.png"/>](https://www.linkedin.com/in/varunkumar-r-6252b6240/)
-  <span></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/portfolio-logo.png"/>](https://varunkumar0812.github.io/PW/src/index.html)
+  &nbsp;&nbsp;&nbsp;&nbsp;
   [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>](https://drive.google.com/file/d/1BtqBhvKrCM5_g9dTh_CPk-riKqZQmX2B/view?usp=sharing)
 </div>
