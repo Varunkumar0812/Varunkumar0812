@@ -28,16 +28,13 @@
 <hr>
 
 <h3>Tech Skills : </h3>
-| []()            |  []()      |
-|-----------------|------------|
-| varunkumarceg   | Varunkumar | 
-| mettasurrendhar | Metta      | 
-| vigneshsundhar  | Vignesh    | 
-
 <table>
   <tr>
-    <td>Hello</td>
-    <td>Varun</td>
+    <th>Languages</th>
+    <td>
+      
+  [![My Languages](https://skillicons.dev/icons?i=python,js,java,html,css)](https://skillicons.dev)
+    </td>
   </tr>
 </table>
 
