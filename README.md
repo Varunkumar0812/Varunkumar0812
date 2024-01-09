@@ -33,7 +33,7 @@
     <th>Languages</th>
     <td>
       
-  [![My Languages](https://skillicons.dev/icons?i=python,js,java,html,css)](https://skillicons.dev)
+  [![My Languages](https://skillicons.dev/icons?i=python,js,java,html,css&theme=light)]()
     </td>
   </tr>
 </table>
