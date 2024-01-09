@@ -28,7 +28,7 @@
 <hr>
 
 <h3>Tech Skills : </h3>
-<table>
+<table width="full">
   <tr>
     <th>Languages</th>
     <td>
@@ -57,7 +57,7 @@
     <th>Technologies</th>
     <td>
       
-  [![My Technologies](https://skillicons.dev/icons?i=react,nodejs,express,scikit-learn,tensorflow,git&theme=light)]()
+  [![My Technologies](https://skillicons.dev/icons?i=react,nodejs,express,sklearn,tensorflow,git&theme=light)]()
     </td>
   </tr>
 
@@ -69,4 +69,6 @@
     </td>
   </tr>
 </table>
+
+
 
