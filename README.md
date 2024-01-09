@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  Programming | Web Development | Problem Solving | Planning and Organization | Ml & AI Enthusiast
+  <h4>Programming | Web Development | Problem Solving | Planning and Organization | Ml & AI Enthusiast </h4>
 </div>
 
 <hr>
