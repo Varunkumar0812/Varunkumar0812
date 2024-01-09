@@ -12,11 +12,11 @@
   <a href="https://twitter.com/Varunkumar_0812">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=blue&labelColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.instagram.com/tvarun0812/">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=purple&labelColor=white&style=for-the-badge" alt="Instagram Badge"/>
+    <a href="#">
+    <img src="https://img.shields.io/badge/leetcode-darkorange?logo=leetcode&labelColor=white&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100088920824048">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=blue&labelColor=white&style=for-the-badge" alt="Facebook Badge"/>
+   [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:varunkumarceg@gmail.com)
   </a>
     <a href="https://leetcode.com/varunkumarceg/">
     <img src="https://img.shields.io/badge/leetcode-darkorange?logo=leetcode&labelColor=white&style=for-the-badge" alt="Leetcode Badge"/>
