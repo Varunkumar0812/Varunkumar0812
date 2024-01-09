@@ -28,7 +28,7 @@
 <hr>
 
 <h3>Tech Skills : </h3>
-<table width="full">
+<table>
   <tr>
     <th>Languages</th>
     <td>
@@ -70,5 +70,10 @@
   </tr>
 </table>
 
+<h3>Github Stats : </h3>
 
+![Varunkumar0812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+![Varunkumar0812's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=prussian&hide_border=true)
+
+<img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/3dadfb7af89cc4c9ef0a6249f49a6840941e37a2/down-frame.png"/>
 
