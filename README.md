@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h4>Programming | Web Development | Problem Solving | Planning and Organization | ML & AI Enthusiast </h4>
+  <h4>Computer Science Student | Web Development | Problem Solving | ML & AI Enthusiast </h4>
 </div>
 
 <h1></h1>
