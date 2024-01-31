@@ -22,7 +22,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/portfolio-logo.png"/>](https://main--thunderous-dragon-079de8.netlify.app/)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>](https://drive.google.com/file/d/1BtqBhvKrCM5_g9dTh_CPk-riKqZQmX2B/view?usp=sharing)
+  [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>](https://drive.google.com/file/d/1UGtDIw-CbQLTF-9Uf2GGLA9gTOdtSvl6/view?usp=sharing)
 </div>
 
 <hr>
