@@ -22,7 +22,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/portfolio-logo.png"/>](https://varunkumar0812.github.io/PW/)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>](https://drive.google.com/file/d/116FAcAg2DKA50hRVg_Fwt-bI2NoLiGfX/view)
+  [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>](https://drive.google.com/file/d/1Y_E1I6QeKWpeqjpAhu50zz2lXQA0HyX7/view?usp=sharing)
 </div>
 
 <hr>
