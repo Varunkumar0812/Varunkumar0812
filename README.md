@@ -84,13 +84,13 @@ I'm always eager to explore new fields, take on challenging problems, and contri
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Varunkumar0812's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=react&hide_border=true" alt="Varunkumar0812's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Varunkumar0812's Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=react&hide_border=true" alt="Varunkumar0812's Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunkumarR&theme=react&hide_border=true" width="520" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&layout=compact" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunkumarR&theme=react&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&layout=compact" width="49%" />
 </p>
 
 
