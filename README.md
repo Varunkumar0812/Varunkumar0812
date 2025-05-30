@@ -52,15 +52,6 @@ I’m proficient in <strong>Python</strong> and <strong>JavaScript</strong>, and
 
 ## 💼 Experience
 
-- **SDE Intern**  
-  NGP Websmart, Navallur, Chennai  
-
-  NGP Websmart is the Research and Development wing of the NGP which manages the overall energy dealership of the entirety of Europe.  
-
-  **Skills Gained:** AdonisJS, VueJS, PostgreSQL, Communication, Teamwork  
-
-  Completed a month-long training on Git, Linux, AdonisJS, VueJS, and PostgreSQL. Collaborated on developing an in-house Office Employee Management System using AdonisJS, VueJS, and PostgreSQL.
-
 - **Software Development Intern**
   NGP Websmart, Navallur, Chennai
   
@@ -142,3 +133,6 @@ I’m proficient in <strong>Python</strong> and <strong>JavaScript</strong>, and
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunkumarR&theme=react&hide_border=true" width="59%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&layout=compact" width="39%" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
