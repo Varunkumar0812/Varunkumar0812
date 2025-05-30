@@ -14,8 +14,6 @@ I'm always eager to explore new fields, take on challenging problems, and contri
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 ## 🎓 Education
 
 - **M.Sc. Integrated (5 Years) Computer Science**  
@@ -25,8 +23,6 @@ I'm always eager to explore new fields, take on challenging problems, and contri
   **CGPA:** 9.304 (Till Semester VII)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ## 💼 Experience
 
@@ -38,8 +34,6 @@ I'm always eager to explore new fields, take on challenging problems, and contri
   **Skills Gained:** AdonisJS, VueJS, PostgreSQL, Communication, Teamwork  
 
   Completed a month-long training on Git, Linux, AdonisJS, VueJS, and PostgreSQL. Collaborated on developing an in-house Office Employee Management System using AdonisJS, VueJS, and PostgreSQL.
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -85,27 +79,23 @@ I'm always eager to explore new fields, take on challenging problems, and contri
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarunkumarR&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunkumarR&theme=react" width="380"/>
+  ![Varunkumar0812's Stats](https://github-readme-stats.vercel.app/api?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&count_private=true)
+  ![Varunkumar0812's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=react&hide_border=true)
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunkumarR&theme=react&hide_border=true" width="520" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VarunkumarR&show_icons=true&locale=en&layout=compact&theme=react" width="320" />
+  ![Varunkumar0812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VarunkumarR&theme=react" width="840" />
 </p>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
