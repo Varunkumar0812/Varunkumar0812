@@ -1,3 +1,7 @@
+<!-- https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNlZ3ZzMTlidzVmbTdmYmg4OHViaHBkcHl4eGV0bWQ5MjI0YmoxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif -->
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNlZ3ZzMTlidzVmbTdmYmg4OHViaHBkcHl4eGV0bWQ5MjI0YmoxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="100%">
+
 <h1>Hi there 👋, Welcome to my GitHub profile!</h1>
 
 <p>
