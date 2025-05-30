@@ -15,25 +15,25 @@ I’m proficient in <strong>Python</strong> and <strong>JavaScript</strong>, and
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varunkumar-r-6252b6240/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0275b2" />
   </a>
   <a href="mailto:varunkumarceg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://varunkumar0812.github.io/PW/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=portfolio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=portfolio&logoColor=white&color=3ea832" />
   </a>
   <a href="https://drive.google.com/file/d/1Y_E1I6QeKWpeqjpAhu50zz2lXQA0HyX7/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=pdf&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=pdf&logoColor=white&color=680cf2" />
   </a>
   <a href="https://leetcode.com/u/varun0812/" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-%230077B5.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Leetcode-%230077B5.svg?style=for-the-badge&logo=leetcode&logoColor=white&color=f89e1a" />
   </a>
   <a href="https://www.hackerrank.com/profile/varunkumarceg" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-%230077B5.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hackerrank-%230077B5.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=00b661" />
   </a>
   <a href="https://www.figma.com/@varunkumar0812" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-%230077B5.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-%230077B5.svg?style=for-the-badge&logo=figma&logoColor=white&color=ff63f7" />
   </a>
 </p>
 
