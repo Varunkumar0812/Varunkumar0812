@@ -1,79 +1,121 @@
-<img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/b5a79c071d4d0a647acb9e2b117826601c45a626/top-frame.png"/>
+<!-- Optional Header Image -->
+<!--
+[![Header](https://github.com/VarunkumarR/VarunkumarR/blob/main/image/header.jpg?raw=true)]()
+-->
 
-<div align="center">
-  <img width="600" height="150" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/240738edef7c1e39ce478c4b71cd5b5a4ba59a23/name.png" />
-</div>
+<h2>Hi 👋, Welcome to my GitHub profile!</h2>
 
-<div align="center">
-  <h4>Computer Science Student | Web Development | Problem Solving | ML & AI Enthusiast </h4>
-</div>
+<p>
+I'm <strong>Varunkumar R</strong> — a Computer Science graduate from Anna University with a strong passion for software development.  
+I’ve worked on several development-oriented projects, gaining hands-on experience in both frontend and backend technologies. I'm proficient in programming languages such as Python and JavaScript, and I enjoy building solutions that are both functional and thoughtfully designed.
 
-<h1></h1>
+I'm always eager to explore new fields, take on challenging problems, and contribute to innovative projects that combine technical problem-solving with creative design. My goal is to continuously grow as a developer while creating impactful user experiences.
+</p>
 
-<div align="center">
-  I am a computer Science Student at Anna University, Chennai. I have been doing problem solving in platforms like LeetCode and HackerRank. I am proficient in the languages like Python, JavaScript and Java. I have developed quite a few frontend projects and also some full stack projects. I am familiar with technologies like React, Node.js and MongoDB. I'm aspiring to explore the field of Machine Learning and Artificial Intelligence, I have also worked with some basic models in ML.
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<hr>
+---
 
-<div align="center">
- 
-  [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/linked-logo.png"/>](https://www.linkedin.com/in/varunkumar-r-6252b6240/)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/portfolio-logo.png"/>](https://varunkumar0812.github.io/PW/)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [<img height="40" width="130" src="https://github.com/Varunkumar0812/Varunkumar0812/blob/57922b5657207576669510dd2fa127678d5da5be/resume-logo.png"/>](https://drive.google.com/file/d/1Y_E1I6QeKWpeqjpAhu50zz2lXQA0HyX7/view?usp=sharing)
-</div>
+## 🎓 Education
 
-<hr>
+- **M.Sc. Integrated (5 Years) Computer Science**  
+  College of Engineering, Guindy  
+  Anna University, Chennai  
+  **Core Courses:** Operating Systems, Computer Networks, DBMS, Software Engineering, Web Development, Artificial Intelligence  
+  **CGPA:** 9.304 (Till Semester VII)
 
-<h3>Tech Skills : </h3>
-<table>
-  <tr>
-    <th>Languages</th>
-    <td>
-      
-  [![My Languages](https://skillicons.dev/icons?i=python,js,java,html,css&theme=light)]()
-    </td>
-  </tr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <tr>
-    <th>Databases</th>
-    <td>
-      
-  [![My Databases](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)]()
-    </td>
-  </tr>
+---
 
-   <tr>
-    <th>Tools</th>
-    <td>
-      
-  [![My Databases](https://skillicons.dev/icons?i=vscode,eclipse,postman,figma,bootstrap,tailwind,materialui,anaconda&theme=light)]()
-    </td>
-  </tr>
+## 💼 Experience
 
-   <tr>
-    <th>Technologies</th>
-    <td>
-      
-  [![My Technologies](https://skillicons.dev/icons?i=react,nodejs,express,sklearn,tensorflow,git&theme=light)]()
-    </td>
-  </tr>
+- **SDE Intern**  
+  NGP Websmart, Navallur, Chennai  
 
-  <tr>
-    <th>Platforms</th>
-    <td>
-      
-  [![My Platforms](https://skillicons.dev/icons?i=linux,github&theme=light)]()
-    </td>
-  </tr>
-</table>
+  NGP Websmart is the Research and Development wing of the NGP which manages the overall energy dealership of the entirety of Europe.  
 
-<h3>Github Stats : </h3>
+  **Skills Gained:** AdonisJS, VueJS, PostgreSQL, Communication, Teamwork  
 
-![Varunkumar0812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=prussian&show_icons=true&hide_border=true&layout=compact)
-![Varunkumar0812's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=prussian&hide_border=true)
+  Completed a month-long training on Git, Linux, AdonisJS, VueJS, and PostgreSQL. Collaborated on developing an in-house Office Employee Management System using AdonisJS, VueJS, and PostgreSQL.
 
-<img src="https://github.com/Varunkumar0812/Varunkumar0812/blob/3dadfb7af89cc4c9ef0a6249f49a6840941e37a2/down-frame.png"/>
+---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Skills
+
+### 📋 Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
+
+### 🎨 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 💾 Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & OS
+
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarunkumarR&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunkumarR&theme=react" width="380"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunkumarR&theme=react&hide_border=true" width="520" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VarunkumarR&show_icons=true&locale=en&layout=compact&theme=react" width="320" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VarunkumarR&theme=react" width="840" />
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/varunkumar-r-6252b6240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:varunkumarceg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
