@@ -3,7 +3,7 @@
 [![Header](https://github.com/VarunkumarR/VarunkumarR/blob/main/image/header.jpg?raw=true)]()
 -->
 
-<h2>Hi 👋, Welcome to my GitHub profile!</h2>
+<h2>Hi there 👋, Welcome to my GitHub profile!</h2>
 
 <p>
 I'm <strong>Varunkumar R</strong> — a Computer Science graduate from Anna University with a strong passion for software development.  
@@ -84,8 +84,8 @@ I'm always eager to explore new fields, take on challenging problems, and contri
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Varunkumar0812's Stats](https://github-readme-stats.vercel.app/api?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&count_private=true)
-  ![Varunkumar0812's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=react&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Varunkumar0812's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=react&hide_border=true" alt="Varunkumar0812's Streak" />
 </p>
 
 <p align="center">
@@ -94,8 +94,10 @@ I'm always eager to explore new fields, take on challenging problems, and contri
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VarunkumarR&theme=react" width="840" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunkumarR&theme=react&hide_border=true" width="520" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&layout=compact" width="400" />
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
