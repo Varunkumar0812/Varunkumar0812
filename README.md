@@ -89,8 +89,8 @@ I'm always eager to explore new fields, take on challenging problems, and contri
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunkumarR&theme=react&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&layout=compact" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunkumarR&theme=react&hide_border=true" width="59%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&layout=compact" width="39%" />
 </p>
 
 
