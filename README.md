@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNlZ3ZzMTlidzVmbTdmYmg4OHViaHBkcHl4eGV0bWQ5MjI0YmoxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="80" align="right" />
-  <strong><font size="6">Hi there 👋, Welcome to my GitHub profile!</font></strong>
+  <div width="49%"><strong><font size="20">Hi there 👋, Welcome to my GitHub profile!</font></strong></div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRtNmN2dmRldHd3aG02ejlleml6Y3Z3cmE1YTY2a2ZuczJrNmU5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="49%" />
 </p>
 
 
