@@ -124,7 +124,7 @@ I’m proficient in <strong>Python</strong> and <strong>JavaScript</strong>, and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varunkumar0812&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Varunkumar0812's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=react&hide_border=true" alt="Varunkumar0812's Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunkumar0812&theme=react&hide_border=true" alt="Varunkumar0812's Streak" width="50%" />
 </p>
 
 <p align="center">
