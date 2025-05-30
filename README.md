@@ -1,9 +1,4 @@
-<!-- Optional Header Image -->
-<!--
-[![Header](https://github.com/VarunkumarR/VarunkumarR/blob/main/image/header.jpg?raw=true)]()
--->
-
-<h2>Hi there 👋, Welcome to my GitHub profile!</h2>
+<h1>Hi there 👋, Welcome to my GitHub profile!</h1>
 
 <p>
 I'm <strong>Varunkumar R</strong>, a passionate and driven <strong>Computer Science graduate</strong> from <strong>Anna University, College of Engineering, Guindy</strong>. I specialize in full-stack development and have worked on numerous <strong>development-oriented projects</strong>, where I combined <strong>problem-solving</strong> with <strong>creative design</strong> to build practical and user-friendly applications.
@@ -74,51 +69,50 @@ I’m proficient in <strong>Python</strong> and <strong>JavaScript</strong>, and
 
 ### 📋 Languages
 
-![Python](https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=DC9D00)
+![Python](https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=white&color=2194ff)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=ffea00)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23323330.svg?&style=for-the-badge&logo=sql&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%23323330.svg?&style=for-the-badge&logo=sql&logoColor=%23F7DF1E&color=a3ff21)
 
 ### 💾 Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=026090)
 
 ### 🛠️ Tools & OS
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=VSCO&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-38B2AC?style=for-the-badge&logo=vuetifys&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-38B2AC?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%2300C4CC.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%2300C4CC.svg?style=for-the-badge&logo=jupyternotebook&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%2300C4CC.svg?style=for-the-badge&logo=googlecolab&logoColor=white&color=f8ac00)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%2300C4CC.svg?style=for-the-badge&logo=jupyternotebook&logoColor=white&color=f27921)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🎨 Technologies
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=black&color=61dafb)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white&color=41b982)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Adonis JS](https://img.shields.io/badge/Adonis%20JS-%2343853D.svg?&style=for-the-badge&logo=adonisjs&logoColor=white)
+![Adonis JS](https://img.shields.io/badge/Adonis%20JS-%2343853D.svg?&style=for-the-badge&logo=adonisjs&logoColor=white&color=5a47fe)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2343853D.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2343853D.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2343853D.svg?&style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
 
 ### 💻 Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-FCC624?style=for-the-badge&logo=kaggle&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-FCC624?style=for-the-badge&logo=kaggle&logoColor=white&color=21bfff)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
