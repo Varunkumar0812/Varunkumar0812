@@ -1,7 +1,8 @@
 <p align="center">
-  <span style="font-size: 26px; font-weight: bold;">Hi there 👋, Welcome to my GitHub profile!</span>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnIxeW12NXkwcmdxd2liOHRrZDJmY3RwaXkzN3N4aWZycWhiaWxreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNlZ3ZzMTlidzVmbTdmYmg4OHViaHBkcHl4eGV0bWQ5MjI0YmoxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="80" align="right" />
+  <strong><font size="6">Hi there 👋, Welcome to my GitHub profile!</font></strong>
 </p>
+
 
 <p>
 I'm <strong>Varunkumar R</strong>, a passionate and driven <strong>Computer Science graduate</strong> from <strong>Anna University, College of Engineering, Guindy</strong>. I specialize in full-stack development and have worked on numerous <strong>development-oriented projects</strong>, where I combined <strong>problem-solving</strong> with <strong>creative design</strong> to build practical and user-friendly applications.
