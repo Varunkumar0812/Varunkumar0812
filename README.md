@@ -1,5 +1,5 @@
 <p align="center">
-  <div width="49%"><strong><font size="20">Hi there 👋, Welcome to my GitHub profile!</font></strong></div>
+  <h2 width="49%"><strong><font size="20">Hi there 👋, Welcome to my GitHub profile!</font></strong></h2>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRtNmN2dmRldHd3aG02ejlleml6Y3Z3cmE1YTY2a2ZuczJrNmU5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="49%" />
 </p>
 
