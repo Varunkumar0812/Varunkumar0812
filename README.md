@@ -22,7 +22,7 @@ I’m proficient in <strong>Python</strong> and <strong>JavaScript</strong>, and
   <a href="https://varunkumar0812.github.io/PW/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=portfolio&logoColor=white&color=3ea832" />
   </a>
-  <a href="https://drive.google.com/file/d/1Y_E1I6QeKWpeqjpAhu50zz2lXQA0HyX7/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1RTI8EfS1noAkvJmeQL114N4iQTsItOEg/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=pdf&logoColor=white&color=680cf2" />
   </a>
   <a href="https://leetcode.com/u/varun0812/" target="_blank">
